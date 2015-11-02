@@ -1,0 +1,6 @@
+{
+    "require-all": true,
+    "require": {
+	"illuminate/view": "4.2.*"
+    }
+}
